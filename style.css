@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+}
+d1 {
+   border: 5px solid red;
+  margin-block: 35px;
+}
+h1 {
+  color: blue;
+  font-size: 1000%;
+  margin-left: 30px;
+}
+p {
+  color: red;
+}
+h3 {
+  color: red;
+  font-size: 1000%;
+  border: 500px solid powderblue;
+}
+
